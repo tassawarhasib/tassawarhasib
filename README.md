@@ -2,11 +2,11 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=tassawarhasib)[![Github](https://img.shields.io/github/followers/tassawarhasib?label=Follow&style=social)](https://github.com/tassawarhasib)
 
-<a href="https://www.linkedin.com/in/tassawarhasib/">
+<a href="[https://www.linkedin.com/in/tassawarhasib/](https://www.linkedin.com/in/tassawar-hasib-a524491a8/)">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>&ensp;
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="50px">, I'm [Tassawar Hasib](https://ritik-ranjan.netlify.app/)! 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="50px">, I'm [Tassawar Hasib](https://www.coderhunts.com/)! 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tassawarhasib&theme=dracula&row=1)](https://github.com/tassawarhasib/github-profile-trophy)
