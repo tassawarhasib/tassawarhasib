@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**tassawarhasib/tassawarhasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Profile View Counter](https://komarev.com/ghpvc/?username=tassawarhasib)[![Github](https://img.shields.io/github/followers/tassawarhasib?label=Follow&style=social)](https://github.com/tassawarhasib)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/tassawarhasib/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>&ensp;
+
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="50px">, I'm [Tassawar Hasib](https://ritik-ranjan.netlify.app/)! 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tassawarhasib&theme=dracula&row=1)](https://github.com/tassawarhasib/github-profile-trophy)
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tassawarhasib&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassawarhasib&theme=tokyonight&hide=Tex)
+
+
